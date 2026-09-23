@@ -11,3 +11,9 @@ Hay que usar las siguientes aplicaciones:
 
 ---
 
+Tenemos que: 
+- Guardar
+- Editar
+- Unir branchs
+- Enviárselo a Victor
+
