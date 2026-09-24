@@ -23,5 +23,8 @@ Tenemos que:
 
 ---
 
-#Vuelvo a estar en el main.
+# Vuelvo a estar en el main.
 
+---
+
+# Después de editar l segunda rama, vuelvo a estar en el main.
