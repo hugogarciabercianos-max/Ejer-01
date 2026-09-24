@@ -25,5 +25,9 @@ Tenemos que:
 
 # Ahora estoy en la primera rama.
 
+---
+
+# Ahora estoy en la segunda rama.
+
 #Vuelvo a estar en el main.
 
